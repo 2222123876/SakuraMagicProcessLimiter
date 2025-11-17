@@ -1,7 +1,8 @@
 # 🪄 魔法小樱的性能限制器 🌸 | 可视化进程 CPU/内存管控工具
 一款颜值与实力并存的进程资源限制神器！以「魔法小樱」为主题的可爱风工具，帮你轻松限制高占用进程的 CPU/内存使用，让电脑运行如魔法般流畅 ✨
 
-<img width="903" height="753" alt="ScreenShot_2025-11-17_211527_414" src="https://github.com/user-attachments/assets/e44fef17-fafb-435c-8abe-c5ddeea58ee8" />
+<img width="901" height="830" alt="ScreenShot_2025-11-17_211527_414" src="https://github.com/user-attachments/assets/616a3ff2-d3ce-4305-a140-ebd50013a687" />
+
 
 ---
 
